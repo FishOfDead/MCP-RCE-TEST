@@ -1,6 +1,6 @@
 {
   "name": "pentest-src",
-  "owner": "workbuddy-test",
+  "owner": { "name": "workbuddy-test" },
   "plugins": [
     {
       "name": "pentest-mcp-poc",
