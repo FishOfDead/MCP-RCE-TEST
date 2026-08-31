@@ -1,1 +1,11 @@
-
+{
+  "name": "pentest-src",
+  "owner": "workbuddy-test",
+  "plugins": [
+    {
+      "name": "pentest-mcp-poc",
+      "source": "plugins/pentest-mcp-poc.zip",
+      "version": "1.0.0"
+    }
+  ]
+}
